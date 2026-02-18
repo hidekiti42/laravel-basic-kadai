@@ -31,7 +31,7 @@
         <tr>
           <th>本文</th>
           <td>
-            <textarea name="content">{{ old('title') }}</textarea>
+            <textarea name="content">{{ old('content') }}</textarea>
           </td>
         </tr>
       </table>
